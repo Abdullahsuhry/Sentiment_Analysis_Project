@@ -205,5 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 artifacts/
+=======
+>>>>>>> 54ee1079403b28b6f024dc237df11533b4c9aa8a
